@@ -1,0 +1,59 @@
+h1{
+    font-size: 48px;
+    text-shadow: -1px -1px #9df, 1px 1px #49d, -3px 0 4px #000;
+    font-family:"Segoe print", Arial, Helvetica, sans-serif;
+    color:hsl(231, 46%, 54%);
+    padding:24px 32px 32px 32px;
+    font-weight:lighter;
+    -moz-box-shadow: 2px 2px 6px #888;  
+    -webkit-box-shadow: 2px 2px 6px #888;  
+    box-shadow:2px 2px 6px #888;  
+    text-align: center;
+    display:inline;
+    line-height:150px;
+}
+
+body{
+    background-color: rgb(245, 245, 255);
+    opacity: 0,4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    width: 100%;
+    border-left: 10em ridge hsl(231, 58%, 72%) ;
+}
+
+h3{
+   opacity: 0.4;
+}
+
+.answer{
+    font-size: 1em;
+    opacity: 0.7;
+    font-style: italic;
+}
+ 
+.logo{
+     float:right;
+     margin-top: 2%;
+}
+
+.button{
+    width: 5em;
+}
+
+h5{
+    font-weight: bold;
+    font-size: 1em;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.audio {
+    margin-left: -30px;
+}
+
+p{
+ opacity: 0.4;  
+}
